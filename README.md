@@ -1,5 +1,5 @@
 # tic-tac-toe
-======
+
 
 This is one of my first React Apps. 
 I followed the documentation on in the [React Tutoring](https://reactjs.org/tutorial/).
